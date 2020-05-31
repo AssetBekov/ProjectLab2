@@ -6,7 +6,7 @@ This repository is done with reference to [Generative_Models](https://github.com
 * Dsprites
 ### Installation and Colab Mount
 ![20](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/20.png)
-* Dsprites
+
 ### Generative Adversarial Networks, Generative Inference Adversarial, Inference Adversarial
 
 I tried testing the models, but ended up with training only 2 models of generative inference adversarial. Here are the results: 
