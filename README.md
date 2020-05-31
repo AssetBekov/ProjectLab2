@@ -21,7 +21,7 @@ I tried testing the models, but ended up with training only 2 models of generati
 ![9](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/9.png)
 ![10](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/10.png)
 ![11](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/11.png)
-![12](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/12.png)
+![13](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/13.png)
 
 ### Reference
 1. P. Baldi, “Autoencoders, unsupervised learning, and deep architectures,”
