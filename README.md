@@ -5,7 +5,7 @@ This repository is done with reference to [Generative_Models](https://github.com
 ### Dataset
 * Dsprites
 ### Installation and Colab Mount
-![14](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/14.png)
+![20](https://github.com/AssetBekov/ProjectLab2/blob/master/Images/20.png)
 * Dsprites
 ### Generative Adversarial Networks, Generative Inference Adversarial, Inference Adversarial
 
