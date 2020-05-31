@@ -7,4 +7,4 @@ This repository is done with reference to [Generative_Models](https://github.com
 ### Generative Adversarial Networks, Generative Inference Adversarial, Inference Adversarial
 
 I tried testing the models, but ended up with training only 2 models of generative inference adversarial. Here are the results: 
-![GitHub Logo](https://github.com/AssetBekov/ProjectLab2/tree/master/Images/1.png)
+![1](https://github.com/AssetBekov/ProjectLab2/tree/master/Images/1.png)
